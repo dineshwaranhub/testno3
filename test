@@ -1,0 +1,51 @@
+ <div class="card-container">
+        <div class="card-container">
+            <div class="card Birthday\ Party">
+             <a href="krishna mahal.html">   <img src="krishns.jpg" alt="Spring"></a>
+                <h4>krishna</h4>
+            </div>
+            <div class="card Wedding">
+           <a href="mlr.html">     <img src="mlr.jpg" alt="Wedding"></a>
+                <h4>mlr</h4>
+            </div>
+            <div class="card ValaiKappu">
+                <a href="sri mani.html"><img src="mani.jpg" alt="ValaiKappu"></a>
+                <h4>sri mani</h4>
+            </div>
+            <div class="card Kathukuthu">
+                <a href="srinivasa.html"><img src="srini.jpg" alt="Kathukuthu"></a>
+                <h4>sri Srinivasa</h4>
+            </div>
+            <div class="card Majal">
+             <a href="chandra mahal.html">   <img src="santhira.jpg" alt="Majal"></a>
+                <h4>chandra mahal</h4>
+            </div>
+            <div class="card Newhome">
+               <a href="kamatchiamman mahal.html"> <img src="k amman.jpg" alt="Newhome"></a>
+                <h4>kamatchi</h4>
+            </div>
+            <div class="card Diwali">
+                <a href="karunambikamahal.html"><img src="karun.jpg" alt="Diwali"></a>
+                <h4>karunambiga</h4>
+            </div>
+            <div class="card Christmas">
+              <a href="ramakrishna.html">  <img src="ramakrishna.jpg" alt="Christmas"></a>
+                <h4>ramakrishna</h4>
+            </div>
+            <div class="card Easter">
+              <a href="pothigai.html">  <img src="pothigai mahal.jpg" alt="Easter"></a>
+                <h4>pothigai</h4>
+            </div>
+            <div class="card Halloween">
+              <a href="saravanamahal.html">  <img src="saravana.jpg" alt="Easter"></a>
+                <h4>saravana</h4>
+            </div>
+            <div class="card NewYear">
+    <a href="ganeshmahal.html">            <img src="ganesh.jpg" alt="New Year"></a>
+                <h4>srinivasa</h4>
+            </div>
+            <div class="card Thanksgiving">
+              <a href="a grand mahal.html">  <img src="a grand mahal ac.jpg" alt="Thanksgiving"></a>
+                <h4>Ta grand</h4>
+            </div>
+        </div>

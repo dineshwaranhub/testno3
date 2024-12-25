@@ -1,0 +1,19 @@
+<style>
+    .green-text {
+        color: #2d6a4f; /* Green color */
+        text-decoration: none; /* Remove underline */
+    }
+</style>
+
+<div class="menu-item">
+    <div class="text-section">
+        <h3><h1>BANANA LEAF SETUP</h1></h3>
+        <a href="morning.html"><h1 class="green-text">MORNING</h1></a>
+        <a href="aft.html"><h1 class="green-text">AFTERNOON</h1></a>
+        <a href="night.html"><h1 class="green-text">NIGHT</h1></a>
+        <p>Fresh and wholesome plant-based dishes that are as delicious as they are nutritious.</p>
+    </div>
+    <div class="image-section">
+        <a href=""><img src="leaf.jpg" alt="Leaf Setup"></a>
+    </div>
+</div>
